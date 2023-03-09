@@ -1,9 +1,9 @@
 # XROS-portfolio
-A minimal portfolio template for Developers!
+#Some projects of my own do to demonstrate some rough idea for the proposal.
 
 <h2 align="center">
-  <img src="https://github.com/shreykul/XROS-portfolio/blob/main/Sample/download.gif" alt="Simplefolio" width="600px" />
-  <img src="" alt="Simplefolio" width="600px" />
+  <img src="https://github.com/shreykul/XROS-portfolio/blob/main/Sample/download.gif" alt="Playcanvas NFT" width="600px" />
+  <img src="" alt="Playcanvas NFT" width="600px" />
   <br>
 </h2>
 
