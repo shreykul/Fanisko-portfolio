@@ -2,7 +2,8 @@
 A minimal portfolio template for Developers!
 
 <h2 align="center">
-  <img src="https://playcanv.as/p/11e13c15/" alt="Simplefolio" width="600px" />
+  <img src="https://github.com/shreykul/XROS-portfolio/blob/main/Sample/download.gif" alt="Simplefolio" width="600px" />
+  <img src="" alt="Simplefolio" width="600px" />
   <br>
 </h2>
 
