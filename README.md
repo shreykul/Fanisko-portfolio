@@ -19,7 +19,7 @@
   <li>
     <p>While in this example, button for upgrading is not used but it can be done and changing some parts or adding some parts to the NFTs as an animation can attract audience better as specified in the project description.</p>  
   </li>
-  <li>The above gif shows a 3D alien whereas in <a href="https://playcanv.as/p/uEdFsL9r/">this( opens a QR code for users to view on the web).</a> The alien can be seen rotating using AR technology, it responds to hand gestures to after it is placed.</p> </li>
+  <li>The above gif shows a 3D alien whereas in <a href="https://playcanv.as/p/uEdFsL9r/">this</a>( opens a QR code for users to view on the web). The alien can be seen rotating using AR technology, it responds to hand gestures to after it is placed.</p> </li>
   <li>
     <p>The alien moves with the camera unitl you click on "Tap to Place" button. After that you can shrink it's size using hand and you can flick the alien too.</P>
   </li>
