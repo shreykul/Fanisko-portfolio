@@ -21,8 +21,7 @@
   </li>
   <li>The above gif shows a 3D alien whereas in <a href="https://playcanv.as/p/uEdFsL9r/">this</a>( opens a QR code for users to view on the web). The alien can be seen rotating using AR technology, it responds to hand gestures to after it is placed.</p> </li>
   <li>
-   <img src="https://github.com/shreykul/XROS-portfolio/blob/main/Sample/1(1).gif" alt="Playcanvas NFT" width="600px" />
-    <p>The alien moves with the camera unitl you click on "Tap to Place" button. After that you can shrink it's size using hand and you can flick the alien too.</P>
+    <p>The alien moves with the camera unitl you click on "Tap to Place" button. After that you can shrink it's size using hand and you can flick the alien too.</p>
   </li>
 </ul>
   </li>
