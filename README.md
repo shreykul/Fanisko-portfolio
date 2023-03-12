@@ -25,7 +25,7 @@
   </li>
 </ul>
   </li>
-  <li><h1>Mirare Interactive PVT LTD</h1></li>
+  <li><h1>Focally</h1></li>
   <li></li>
 </ul>  
 
